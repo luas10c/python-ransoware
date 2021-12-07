@@ -6,4 +6,4 @@
 &nbsp;
 
 #
-OBS: apenas para teste.
+OBS: Apenas para fins educativos.
